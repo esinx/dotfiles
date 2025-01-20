@@ -1,0 +1,14 @@
+configstore
+gatsby
+gcloud
+github-copilot
+ghc
+gtk-2.0
+iterm2
+karabiner
+neofetch
+Yamaha
+yarn
+.DS_Store
+.env
+**/__pycache__
